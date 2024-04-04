@@ -11,7 +11,8 @@ After finishing *Learn Enough™ Git to Be Dangerous*, you'll know enough Git
 to be *dangerous*. This means you'll be able to use Git to track changes in
 your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
-
+For more information on Git, see the
+[official Git documentaion](https://git-scm.com/).
 > （参考訳）
 > # サンプルWebサイト
 
@@ -24,3 +25,4 @@ Dangerous*](https://www.learnenough.com/git-tutorial)』で使うサンプルサ
 > 『Learn Enough™ Git to Be Dangerous』でGitを学習すれば、文字どおり「デンジャラス」なまでにGitを
 使いこなせるようになります。プロジェクトの変更履歴を追いかけることも、データのバックアップも、
 成果を一般公開することも、他のプログラマーたちとGitで共同作業することも自由自在です。
+Gitの詳細については[official Git documentaion](https://git-scm.com/)をご覧ください。
